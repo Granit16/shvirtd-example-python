@@ -12,3 +12,4 @@ Docker Compose version v2.28.1
 
 ## Задача 1 ##
 
+Форк репозитария создан, создан dockerfile (Dockerfile.python), образ собирается, при этом файл requirements.txt копируется в образ для дальнейшей настройки окружения
