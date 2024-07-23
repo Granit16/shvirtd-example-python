@@ -38,7 +38,7 @@ TIME: 2024-07-23 09:55:59, IP: 127.0.0.1damir@dz5:~/rrr/shvirtd-example-python$
 ```
 
 Результат подключения к контейнур с БД и выполенения запроса представлен на скриншоте:
-![alt text](https://github.com/Granit16/shvirtd-example-python/blobe/main/SQL.png?raw=true)
+![alt text](https://github.com/Granit16/shvirtd-example-python/blob/main/SQL.png?raw=true)
 
 
 ## Задача 4 ##
@@ -59,7 +59,7 @@ sudo docker compose up -d
 ```
 
 Повторный SQL-запрос:
-![alt text](https://github.com/Granit16/shvirtd-example-python/blobe/main/SQL2.png?raw=true)
+![alt text](https://github.com/Granit16/shvirtd-example-python/blob/main/SQL2.png?raw=true)
 
 
 
