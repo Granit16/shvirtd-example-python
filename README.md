@@ -19,7 +19,7 @@ Docker Compose version v2.28.1
 
 
 ## Задача 2 (*) ##
-
+registry "test" создан, образ загружен.
 Отчет о сканировании тут: https://github.com/Granit16/shvirtd-example-python/blob/next/vulnerabilities.csv
 
 
